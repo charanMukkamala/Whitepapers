@@ -2,7 +2,7 @@
 
 Cover Page Image
 
-![](C:\Users\ADMIN\Desktop\Projects\8 Securities\technologies.jpg)
+
 
 **Title: How to achieve and maintain Optimal Security for your Enterprise REST API's**
 
