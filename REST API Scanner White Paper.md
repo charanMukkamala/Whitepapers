@@ -44,7 +44,7 @@ In comparison with the development life cycle approach followed for developing a
 
 - Lack of proper documentation
 
-When an organization identified the need for the REST API implementation for their services, relevant developers are assigned to develop the work. Sometimes the tasks are assigned for the developers who are preoccupied with other workloads, assignments and targets to reach. Based on the business needs and executive decisions the developers are forced to complete the tasks in limited timelines which obviously leads to improper documentation.
+When an organization identifies the need for the REST API for their services, relevant developers are assigned to develop the use case. Sometimes the tasks are assigned for the developers who are preoccupied with other workloads, assignments and targets to reach. Based on the business needs and executive decisions the developers are forced to complete the tasks in limited timelines which obviously leads to improper documentation. Also developers are not provided with the required guidance to implement and manage security from the very beginning of the development life cycle.
 
 ###### **Gaps Testers are facing**
 
