@@ -1,1 +1,24 @@
+Product Features
 
+Achieved for Beta
+
+1. Instantly scan your REST API by uploading the documentation. [You are a click away from initiating an advanced scan]
+2. Simplified definition of the role matrices for the REST API endpoints. 
+3. Updated attack patterns for identifying multiple business logic security flaws. [Authorization, Authentication, IDOR]
+4. Comprehensively covers the OWASP REST API Top 10 security risks.
+5. Speed, efficient, cost effective, and easy to maintain.
+6. Low false positives.
+
+
+
+Plans for future releases
+
+1. Scheduled scans.
+2. Integrate into your CI/CD pipeline. [Jira, Jenkins]
+3. 24/7 monitoring features are also available on-demand basis.
+4. Additionally covers multiple compliance standards including PCI DSS, HIPAA, and GDPR.
+5. A standard development approach which integrates security from the very begining. 
+6. Remove the burden for the developers with our interactive Knowledge base with fixing procedures and real world examples.
+7. AI/ML based approach in building the payloads for the patterns/heuristics.
+8. Streamline your existing un-formatted REST API documentation. [Feed the REST API endpoints and respective parameters details into our portal & download the formatted document in which ever standardized format you like]
+9. Customizable scanning template based on your needs.
