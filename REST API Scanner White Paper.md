@@ -22,7 +22,7 @@ Cover Page Image
 
 #### **Introduction** 
 
-Regarding REST API
+<Basic Info and an image regarding REST API is pending>
 
 #### What you learn from this Whitepaper
 
