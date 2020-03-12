@@ -107,12 +107,12 @@ To help the consumers/end-users to easily interpret and integrate the REST API i
 
 ###### REST API Development Life Cycle approach with inherent secure implementations
 
-To help or aid the developers in developing REST API's, we came up with a solution which can offer a customized approach for different use cases(financial, healthcare, e-commerce, education, etc). In this approach, all the necessary information pertaining to the use case and implementation of the respective REST API are collected and a list of best possible security practices will be provided for the development teams which clearly explains what security practices should they follow and possible ways to implement those security practices with real world examples and sample configurations. For example,
+To help or aid the developers in developing REST API's, we came up with a solution which can offer a customized approach for different use cases(financial, healthcare, e-commerce, education, etc). In this approach, all the necessary information pertaining to the use case and implementation of the respective REST API are collected and a list of best possible security practices will be provided for the development teams which clearly explains what security practices should they follow and possible ways to implement those security practices with real world examples and sample configurations. 
+
+Example scenarios can be added if required.
 
 1. Fetching a health record
 2. Authenticating a User via OTP
-
-[Rony, Please add some content like precautions to be taken at multiple stages like planning, designing and developing an API endpoint]
 
 
 
